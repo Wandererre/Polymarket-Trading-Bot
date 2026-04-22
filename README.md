@@ -3,7 +3,7 @@ Polymarket is a popular decentralized prediction market that allows users to bet
 My Project focuses on the bitcoin price prediction market in 5-30 minute windows.(polymarket has 5min, 15min, 60min, 1 day windows so far)
 Goal is simple, Predicting where the price will end up at the end compared to the beginning price of that particular window, Up or Down?
 
-I spent a week looking at the BTC chart inorder to isolate the factors that affect BTC price, and realised there's one particular line of logic gap to take advantage of. and that gap won me around 65% win rate.
+I spent a week looking at the BTC chart inorder to isolate the factors that affect BTC price, and realised there's one particular line of logic gap to take advantage of, and that gap won me around 65% win rate.
 My algorithm takes advantage when the crypto market goes silent (Yes, the market moves fairly slow at particular time intervals throughout the day when big US and Asian institutes are asleep.)
 I connect to the fastest BTC chart api(Binance live chart) and my algorithm calculates 3 parameters based on which the trade will be made.
 Parameters:-
