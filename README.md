@@ -18,4 +18,5 @@ Parameters:-
 Based on these parameters the bot assesses the market speed, volatility and volume of trades and takes advantage on the Polymarket trade.
 Though it absolutely gets wrecked in the high volatility periods, I believe its borderline insane for an individual to compete against insituitional algorithms and run away with any meaningful profit.(there have been exceptions but not in current times.) 
 Go through the code for exact math used on 3 parameters :)
+
 ##Current work in progress: full automation and deploy into market. 
