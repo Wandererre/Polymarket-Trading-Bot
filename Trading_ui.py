@@ -10,7 +10,7 @@ from py_clob_client.clob_types import OrderArgs
 
 # --- 1. CREDENTIALS ---
 PRIVATE_KEY = "meow"      
-FUNDER_ADDRESS = "0x7EE5a6B7498b8005973E0695009BC536c00D0021"   
+FUNDER_ADDRESS = "woofwoof"   
 SIG_TYPE = 2               
 HOST = "https://clob.polymarket.com"
 
