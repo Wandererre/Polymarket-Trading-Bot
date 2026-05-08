@@ -20,4 +20,5 @@ Though it absolutely gets wrecked in the high volatility periods, I believe its 
 Go through the code for exact math used on 3 parameters :)
 
 ##Current work in progress: full automation. 
+
 To test for yourself, Just slap in your private key and funder address in the UI code and run it.
