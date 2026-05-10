@@ -45,7 +45,7 @@ class TrinityUltimate:
         # LEFT: SMART (Gravity)
         frame_smart = tk.Frame(mag_frame, bg="#050505", width=190)
         frame_smart.pack(side="left", fill="y", expand=True)
-        tk.Label(frame_smart, text="⚡ PROXIMITY (Gravity)", fg="#666", bg="#050505", font=("Arial", 7)).pack()
+        tk.Label(frame_smart, text="PROXIMITY (Gravity)", fg="#666", bg="#050505", font=("Arial", 7)).pack()
         
         self.lbl_smart_up = tk.Label(frame_smart, text="$00,000", fg="#ff3333", bg="#050505", font=("Arial", 14, "bold"))
         self.lbl_smart_up.pack(pady=(2,0))
