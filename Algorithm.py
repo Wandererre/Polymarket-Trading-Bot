@@ -63,7 +63,7 @@ class TrinityUltimate:
         # RIGHT: STABLE (Massive)
         frame_stable = tk.Frame(mag_frame, bg="#050505", width=190)
         frame_stable.pack(side="right", fill="y", expand=True)
-        tk.Label(frame_stable, text="🧱 MASSIVE (Volume)", fg="#666", bg="#050505", font=("Arial", 7)).pack()
+        tk.Label(frame_stable, text="MASSIVE (Volume)", fg="#666", bg="#050505", font=("Arial", 7)).pack()
 
         self.lbl_stable_up = tk.Label(frame_stable, text="$00,000", fg="#ff3333", bg="#050505", font=("Arial", 14, "bold"))
         self.lbl_stable_up.pack(pady=(2,0))
